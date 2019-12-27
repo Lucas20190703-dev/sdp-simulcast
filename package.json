@@ -30,7 +30,7 @@
   "name": "@qhsense/sdp-simulcast",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Lucas20190703-dev/sdp-simulcast.git"
   },
   "scripts": {
     "coverage": "jscoverage lib && SDP_TRANSFORM_COV=1 nodeunit --reporter=lcov test",
